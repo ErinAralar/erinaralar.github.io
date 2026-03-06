@@ -134,7 +134,7 @@ header {
         padding: 0;
         height: 100%;
         display: grid;
-        grid-template-columns: calc(100%/3) calc(100%/3) calc(100%/3);
+        grid-template-columns: calc(50%) calc(50%);
         box-sizing: border-box;
     }
 
